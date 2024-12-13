@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>anet2.ico</file>
+        <file>pause-button.png</file>
+        <file>play-button.png</file>
+        <file>stop-button.png</file>
+    </qresource>
+</RCC>
